@@ -50,7 +50,7 @@ body {
   height: 3.5rem;
 }
 
-.menu {
+/* .menu {
   display: flex;
   justify-content: space-around;
   align-items: center;
@@ -63,7 +63,7 @@ body {
   color: #e04f5f;
   font-weight: bold;
   text-decoration: none;
-}
+} */
 
 /******************************* Footer ************************************/
 
